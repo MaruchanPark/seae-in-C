@@ -1,2 +1,11 @@
-# seae-in-C
-C implementation of SEAE
+# Speech Enhancement Auto-Encoder in C
+
+## Usage:
+### Inference
+
+```
+gcc enhance_verified.c -lm
+```
+```
+./a.out > result.txt&
+```
