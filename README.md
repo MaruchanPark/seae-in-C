@@ -17,4 +17,4 @@ execution
 
 Result
 
-<img src="assets/input.png" width="480"> <img src="assets/result.png" width="480">
+<img src="assets/INPUT.png" width="480"> <img src="assets/RESULT.png" width="480">
