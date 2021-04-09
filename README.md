@@ -15,6 +15,6 @@ execution
 ./a.out > result.txt&
 ```
 
-Result
+Input vs Result plot
 
 <img src="assets/INPUT.png" width="400"> <img src="assets/RESULT.png" width="400">
