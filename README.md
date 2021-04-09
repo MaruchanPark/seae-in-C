@@ -3,9 +3,14 @@ This code only supports inference, and shares same structure with [SEAE](https:/
 ## Usage:
 ### Inference
 
+* 16bit signed integer input is normalized into 32bit floating point(-1 ~ 1).
+
+compile
 ```
 gcc enhance_verified.c -lm
 ```
+
+execution
 ```
 ./a.out > result.txt&
 ```
