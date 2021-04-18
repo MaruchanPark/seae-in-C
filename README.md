@@ -7,7 +7,7 @@ This code only supports inference, and shares same structure with [SEAE](https:/
 
 compile
 ```
-gcc enhance_verified.c -lm
+make
 ```
 
 execution
